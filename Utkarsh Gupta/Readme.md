@@ -18,7 +18,7 @@ https://github.com/utkarshxgupta/utkarshxgupta.github.io
 Website URL:
 https://utkarshxgupta.github.io
 
-## Second Assignment:
+## Third Assignment:
 This assignment gave us insights to javascript.
 
 1) We made a javascript file to make HTTP requests to different server endpoints and return data to the HTML page.
