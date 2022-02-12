@@ -17,3 +17,13 @@ https://github.com/utkarshxgupta/utkarshxgupta.github.io
 
 Website URL:
 https://utkarshxgupta.github.io
+
+## Second Assignment:
+This assignment gave us insights to javascript.
+
+1) We made a javascript file to make HTTP requests to different server endpoints and return data to the HTML page.
+
+2) We also made an HTML page to display the interface for making different requests and view the returned data.
+
+The link to repo for assignment 3:
+https://github.com/utkarshxgupta/ACA-FSWD-2021/tree/main/Assignment%203.0
